@@ -1,5 +1,5 @@
 # math-blog-comments
 
-Store reader comments for https://math.yfei.page as GitHub issues.
+Store reader comments for https://math.yfei.page.
 
-Powered by [utterances](https://utteranc.es/).
+Powered by [giscus](https://giscus.app/).
